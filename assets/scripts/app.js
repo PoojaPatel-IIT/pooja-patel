@@ -34,6 +34,14 @@ const Portfolio = function() {
 				weight: 8
 			},
 			{
+				text: "Django",
+				weight: 10
+			},
+			{
+				text: "Heroku",
+				weight: 9
+			},
+			{
 				text: "Git",
 				weight: 9
 			}

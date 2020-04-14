@@ -1,2 +1,5 @@
 # adhoc-portfolio
-My portfolio specifically for Chicago Digital since I haven't updated my page in a long while :) and also for fun!!!
+___
+
+*Please fine my portfolio here* : _https://poojapatel-iit.github.io/pooja-patel/_
+ 
